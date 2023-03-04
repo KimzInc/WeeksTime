@@ -1,3 +1,8 @@
+
+//My Contacts: email kmtflx@gmail.com
+//Whatsapp: +254113500084
+//Twitter: @s_kimza
+
 namespace WeeksTime
 {
     public partial class WeekHour : Form
